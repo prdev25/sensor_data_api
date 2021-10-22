@@ -1,11 +1,7 @@
-# Project Title
-
-Sensor_data_api
-
-## Project Description
-
+# Sensor_data_api
 An express, node.JS, MongoDB based backend for recieving and storing sensor data in JSON.
 
+## Project Description
 IOT based sensors can send sensor data using HTTP POST request as JSON. This is backend for recieving and storing that data.
 
 ## Features
